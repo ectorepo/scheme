@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <include name="_remotes.xml" />
+
+  <default remote="savannah"
+           sync-j="8"
+           revision="refs/heads/master" />
+
+  <project path="artanis" name="artanis" groups="artanis,gnu" />
+  <project path="gdb" name="binutils-gdb" remote="sourceware" groups="gnu,binutils"/>
+
+</manifest>
