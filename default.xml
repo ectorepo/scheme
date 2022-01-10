@@ -9,5 +9,5 @@
   <project path="artanis" name="artanis" groups="artanis,gnu" />
   <project path="gdb" name="binutils-gdb" remote="sourceware" groups="gnu,binutils"/>
   <project path="chickadee" name="chickadee" remote="dthompson" groups="game"/>
-  <project path="leptop-eda" name="leptop-eda/leptop-eda" remote="github" groups="gnu"/>
+  <project path="lepton-eda" name="lepton-eda/lepton-eda" remote="github" groups="gnu"/>
 </manifest>
