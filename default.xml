@@ -2,9 +2,11 @@
 <manifest>
   <include name="_remotes.xml" />
 
-  <default remote="savannah"
-           sync-j="8"
-           revision="refs/heads/master" />
+  <default remote="savannah" sync-j="8" revision="refs/heads/master" />
+
+  <project path="guile" name="guile" groups="gnu,scheme"/>
+  <project path="bobotpp" name="bobotpp" groups="gnu"/>
+  <project path="gccjit-guile" name="gccjit-guile" groups="gnu"/>
 
   <project path="artanis" name="artanis" groups="artanis,gnu" />
   <project path="gdb" name="binutils-gdb" remote="sourceware" groups="gnu,binutils"/>
@@ -12,4 +14,5 @@
   <project path="lepton-eda" name="lepton-eda/lepton-eda" remote="github" groups="gnu"/>
   <project path="meep" name="NanoComp/meep" groups="extensions" remote="github"/>
   <project path="libctl" name="NanoComp/libctl" groups="extensions" remote="github"/>
+
 </manifest>
