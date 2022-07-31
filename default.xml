@@ -10,6 +10,7 @@
 
   <project path="artanis" name="artanis" groups="gnu,artanis,guile" />
   <project path="mcron" name="mcron" groups="gnu, guile"/>
+  <project path="xbindkeys" name="xbindkeys" groups="guile,extensions"/>
   <project path="shepherd" name="shepherd" groups="gnu, guile"/>
   <project path="gdb" name="binutils-gdb" remote="sourceware" groups="gnu,binutils,guile"/>
   <project path="chickadee" name="chickadee.git" remote="dthompson" groups="game,guile"/>
