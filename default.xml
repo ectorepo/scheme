@@ -20,4 +20,5 @@
   <project path="guile-examples/stis-parser" name="tampe/stis-parser" groups="guile,parser" remote="gitlab"/>
   <project path="guile-examples/python-on-guile" name="python-on-guile/python-on-guile" groups="guile,parser" remote="gitlab"/>
   <project path="guile-examples/Guile-SiCP" name="Marti2203/Guile-SiCP" groups="guile" remote="github"/>
+  <project path="guile-lib/goblins" name="spritely/goblins" groups="guile" remote="gitlab"/>
 </manifest>

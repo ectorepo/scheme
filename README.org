@@ -1,7 +1,3 @@
 #+title:    Ectorepo: Scheme
 #+author:   David Conner
 #+email: noreply@te.xel.io
-
-Other Scheme/Guix repos
-
-+ [[https://github.com/jitwit/guix-recipes/tree/a/jrn/packages][jitwit/guix-recipes]]
