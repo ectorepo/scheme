@@ -17,8 +17,11 @@
   <project path="gnutls" name="gnutls/gnutls" groups="gnu,guile,crypto" remote="gitlab"/>
   <project path="shroud" name="shroud.git" groups="guile,crypto" remote="dthompson"/>
   <project path="haunt" name="haunt.git" groups="guile,web" remote="dthompson"/>
+  <project path="guile-SML" name="artyom-poptsov/guile-smc" groups="guile,lib" remote="github"/>
+  <project path="guile-lib/guile-syntax-highlighting" name="guile-syntax-highlighting" groups="guile" remote="dthompson"/>
   <project path="guile-examples/stis-parser" name="tampe/stis-parser" groups="guile,parser" remote="gitlab"/>
   <project path="guile-examples/python-on-guile" name="python-on-guile/python-on-guile" groups="guile,parser" remote="gitlab"/>
   <project path="guile-examples/Guile-SiCP" name="Marti2203/Guile-SiCP" groups="guile" remote="github"/>
   <project path="guile-lib/goblins" name="spritely/goblins" groups="guile" remote="gitlab"/>
+  <project path="lib" name="guile-lib" groups="guile" remote="savannah"/>
 </manifest>
