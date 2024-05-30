@@ -24,4 +24,6 @@
   <project path="guile-examples/Guile-SiCP" name="Marti2203/Guile-SiCP" groups="guile" remote="github"/>
   <project path="guile-lib/goblins" name="spritely/goblins" groups="guile" remote="gitlab"/>
   <project path="lib" name="guile-lib" groups="guile" remote="savannah"/>
+  <project path="tools/emacs-arei" name="emacs-arei" groups="guile" remote="abcdw"/>
+  <project path="tools/guile-ares-rs" name="guile-ares-rs" groups="guile,ares" remote="abcdw"/>
 </manifest>
