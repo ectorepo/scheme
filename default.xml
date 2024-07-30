@@ -26,4 +26,5 @@
   <project path="lib" name="guile-lib" groups="guile" remote="savannah"/>
   <project path="tools/emacs-arei" name="emacs-arei" groups="guile" remote="srht_abcdw"/>
   <project path="tools/guile-ares-rs" name="guile-ares-rs" groups="guile,ares" remote="srht_abcdw"/>
+  <project path="STklos/STklos" name="egallesio/STklos" groups="gtk,stklos" remote="github"/>
 </manifest>
