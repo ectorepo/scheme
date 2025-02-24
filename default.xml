@@ -15,7 +15,7 @@
   <project path="guile-examples/cs6120" name="abcdw/cs6120" groups="guile,lib" remote="github" revision="refs/heads/main"/>
   <project path="guile-examples/guile-openai" name="flatwhatson/guile-openai" groups="guile" remote="gitlab" revision="refs/heads/main"/>
   <project path="guile-examples/python-on-guile" name="python-on-guile/python-on-guile" groups="guile,parser" remote="gitlab"/>
-  <project path="guile-examples/sample-guile-project" name="abcdw/sample-guile-project" groups="guile,lib" remote="github" revision="refs/heads/master"/>
+  <project path="guile-examples/sample-guile-project" name="sample-guile-project" groups="guile,lib" remote="srht_abcdw" revision="refs/heads/master"/>
   <project path="guile-examples/stis-parser" name="tampe/stis-parser" groups="guile,parser" remote="gitlab"/>
   <project path="guile-lib/goblins" name="spritely/goblins" groups="guile" remote="gitlab"/>
   <project path="guile-lib/guile-syntax-highlight" name="guile-syntax-highlight" groups="guile" remote="dthompson"/>
