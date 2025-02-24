@@ -7,6 +7,7 @@
   <remote name="framagit" fetch="https://framagit.org"/>
   <remote name="freebsd" fetch="https://git.freebsd.org"/>
   <remote name="freedesktop" fetch="https://gitlab.freedesktop.org"/>
+  <remote name="elephly" fetch="https://git.elephly.net/software"/>
   <remote name="github" fetch="https://github.com"/>
   <remote name="gitlab" fetch="https://gitlab.com"/>
   <remote name="gnupg" fetch="https://dev.gnupg.org/source"/>

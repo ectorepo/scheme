@@ -17,6 +17,7 @@
   <project path="guile-examples/stis-parser" name="tampe/stis-parser" groups="guile,parser" remote="gitlab"/>
   <project path="guile-lib/goblins" name="spritely/goblins" groups="guile" remote="gitlab"/>
   <project path="guile-lib/guile-syntax-highlight" name="guile-syntax-highlight" groups="guile" remote="dthompson"/>
+  <project path="guile-studio" name="guile-studio" groups="guile,guile-studio" remote="elephly"/>
   <project path="haunt" name="haunt.git" groups="guile,web" remote="dthompson"/>
   <project path="lepton-eda" name="lepton-eda/lepton-eda" remote="github" groups="gnu,guile"/>
   <project path="lib" name="guile-lib" groups="guile" remote="savannah"/>
