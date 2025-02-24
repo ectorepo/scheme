@@ -12,8 +12,10 @@
   <project path="guile" name="guile" groups="gnu,scheme" revision="refs/heads/main"/>
   <project path="guile-SML" name="artyom-poptsov/guile-smc" groups="guile,lib" remote="github"/>
   <project path="guile-examples/Guile-SiCP" name="Marti2203/Guile-SiCP" groups="guile" remote="github"/>
+  <project path="guile-examples/cs6120" name="abcdw/cs6120" groups="guile,lib" remote="github" revision="refs/heads/main"/>
   <project path="guile-examples/guile-openai" name="flatwhatson/guile-openai" groups="guile" remote="gitlab" revision="refs/heads/main"/>
   <project path="guile-examples/python-on-guile" name="python-on-guile/python-on-guile" groups="guile,parser" remote="gitlab"/>
+  <project path="guile-examples/sample-guile-project" name="abcdw/sample-guile-project" groups="guile,lib" remote="github" revision="refs/heads/master"/>
   <project path="guile-examples/stis-parser" name="tampe/stis-parser" groups="guile,parser" remote="gitlab"/>
   <project path="guile-lib/goblins" name="spritely/goblins" groups="guile" remote="gitlab"/>
   <project path="guile-lib/guile-syntax-highlight" name="guile-syntax-highlight" groups="guile" remote="dthompson"/>
@@ -26,7 +28,7 @@
   <project path="meep" name="NanoComp/meep" groups="guile,extensions" remote="github"/>
   <project path="shepherd" name="shepherd" groups="gnu, guile" revision="refs/heads/main"/>
   <project path="shroud" name="shroud.git" groups="guile,crypto" remote="dthompson"/>
-  <project path="tools/emacs-arei" name="emacs-arei" groups="guile" remote="srht_abcdw"/>
-  <project path="tools/guile-ares-rs" name="guile-ares-rs" groups="guile,ares" remote="srht_abcdw"/>
+  <project path="tools/emacs-arei" name="emacs-arei" groups="guile,tools" remote="srht_abcdw"/>
+  <project path="tools/guile-ares-rs" name="guile-ares-rs" groups="guile,ares,tools" remote="srht_abcdw"/>
   <project path="xbindkeys" name="xbindkeys" groups="guile,extensions"/>
 </manifest>
