@@ -12,7 +12,7 @@
   <project path="guile" name="guile" groups="gnu,scheme"/>
   <project path="guile-SML" name="artyom-poptsov/guile-smc" groups="guile,lib" remote="github"/>
   <project path="guile-examples/Guile-SiCP" name="Marti2203/Guile-SiCP" groups="guile" remote="github"/>
-  <project path="guile-examples/guile-openai" name="flatwhatson/guile-openai" groups="guile" remote="gitlab"/>
+  <project path="guile-examples/guile-openai" name="flatwhatson/guile-openai" groups="guile" remote="gitlab" revision="main"/>
   <project path="guile-examples/python-on-guile" name="python-on-guile/python-on-guile" groups="guile,parser" remote="gitlab"/>
   <project path="guile-examples/stis-parser" name="tampe/stis-parser" groups="guile,parser" remote="gitlab"/>
   <project path="guile-lib/goblins" name="spritely/goblins" groups="guile" remote="gitlab"/>
