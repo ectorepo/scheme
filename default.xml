@@ -19,7 +19,7 @@
   <project path="guile-examples/stis-parser" name="tampe/stis-parser" groups="guile,parser" remote="gitlab"/>
   <project path="guile-lib/goblins" name="spritely/goblins" groups="guile" remote="gitlab"/>
   <project path="guile-lib/aiscm" name="wedesoft/aiscm" groups="guile" remote="github"/>
-  <project path="guile-lib/sparqling-genomics" name="roelj/sparqling-genomics" groups="guile" remote="gitlab"/>
+  <project path="guile-lib/sparqling-genomics" name="roelj/sparqling-genomics" groups="guile" remote="gitlab" revision="refs/heads/main"/>
   <project path="guile-lib/guile-sparql" name="roelj/guile-sparql" groups="guile" remote="github"/>
   <project path="guile-lib/guile-syntax-highlight" name="guile-syntax-highlight" groups="guile" remote="dthompson"/>
   <project path="haunt" name="haunt.git" groups="guile,web" remote="dthompson"/>
