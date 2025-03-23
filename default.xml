@@ -10,7 +10,7 @@
   <project path="gdb" name="binutils-gdb" remote="sourceware" groups="gnu,binutils,guile"/>
   <project path="gnutls" name="gnutls/gnutls" groups="gnu,guile,crypto" remote="gitlab"/>
   <project path="guile" name="guile" groups="gnu,scheme" revision="refs/heads/main"/>
-  <project path="guile-SML" name="artyom-poptsov/guile-smc" groups="guile,lib" remote="github"/>
+  <project path="guile-smc" name="artyom-poptsov/guile-smc" groups="guile,lib" remote="github"/>
   <project path="guile-examples/Guile-SiCP" name="Marti2203/Guile-SiCP" groups="guile" remote="github"/>
   <project path="guile-examples/cs6120" name="abcdw/cs6120" groups="guile,lib" remote="github" revision="refs/heads/main"/>
   <project path="guile-examples/guile-openai" name="flatwhatson/guile-openai" groups="guile" remote="gitlab" revision="refs/heads/main"/>
