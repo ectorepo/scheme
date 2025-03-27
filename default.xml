@@ -18,7 +18,7 @@
   <project path="guile-examples/sample-guile-project" name="sample-guile-project" groups="guile,lib" remote="srht_abcdw" revision="refs/heads/master"/>
   <project path="guile-examples/stis-parser" name="tampe/stis-parser" groups="guile,parser" remote="gitlab"/>
   <project path="guile-examples/gash" name="gash" groups="guile,parser" remote="savannah_nongnu"/>
-  <project path="guile-examples/gash-utils" name="gash-utils" groups="guile,parser" remote="savannah_nongnu"/>
+  <project path="guile-examples/gash-utils" name="gash/gash-utils" groups="guile,parser" remote="savannah_nongnu"/>
   <project path="guile-lib/aiscm" name="wedesoft/aiscm" groups="guile" remote="github"/>
   <project path="guile-lib/goblins" name="spritely/goblins" groups="guile" remote="gitlab"/>
   <project path="guile-lib/guile-config" name="a-sassmannshausen/guile-config" groups="guile" remote="gitlab" revision="refs/heads/main"/>
