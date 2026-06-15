@@ -48,6 +48,7 @@
   <project path="shroud" name="shroud.git" groups="guile,crypto" remote="dthompson"/>
   <project path="tools/emacs-arei" name="emacs-arei" groups="guile,tools" remote="srht_abcdw"/>
   <project path="tools/guile-ares-rs" name="guile-ares-rs" groups="guile,ares,tools" remote="srht_abcdw"/>
+  <project path="tools/guix-lsp" name="trevarj/guix-lsp" groups="guile,ares,tools" remote="codeberg"/>
   <project path="tools/guile-studio" name="guile-studio.git" groups="guile,guile-studio" remote="elephly"/>
   <project path="xbindkeys" name="xbindkeys" groups="guile,extensions"/>
 </manifest>
